@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 > Welcome to my GitHub page, where I revel in the love for Octocat, and Psuedo Coding.  Bootcamp warrior, navigating my way through the last few weeks of the LPS WebDevelopmet Bootcamp through UPenn, powered by trillogy.  Graduation with certificate November 13th, 2021.  Looking forward to expanding my knowledge and learning new languages/technologies along the way. Most current projects include: working on homework assignments along the lines of technical Computer Science lingo.  
 
 > Check out my Profile: [Here](https://catupperman.github.io/Cats-Profile/)
+
 > Recent Collaboration: [BevViber](https://guarded-meadow-10732.herokuapp.com/)
+
 > Previous Collaboration: [SearchForeGolf](https://chemacenturion.github.io/Search-Fore-Golf/)
+
 > LoneWolf Project: [Team-Profile-Generator](https://drive.google.com/file/d/1ZFlSI836BfGt1yMFuuZbSZlBj331_1CH/view)
 
 
