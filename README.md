@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 * :mailbox: :cat2: catupperman@gmail.com
 * Prefered Contact: Email or GitHub
 <p align="center">
-  <img width="460" height="300" src = "https://user-images.githubusercontent.com/84750356/134679978-88140360-263c-42ef-a7d7-ae6c3156b54e.gif">
+ <img width="460" height="300" src = "https://user-images.githubusercontent.com/84750356/134679978-88140360-263c-42ef-a7d7-ae6c3156b54e.gif">
 </p>
