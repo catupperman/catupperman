@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> <img width="600" height="400" src ="https://user-images.githubusercontent.com/84750356/134686786-906e8ef0-0bf2-4289-99ed-f37c44ed9905.png"> </h1>
+<h1 align="center"> <img width="800" height="400" src ="https://user-images.githubusercontent.com/84750356/134686786-906e8ef0-0bf2-4289-99ed-f37c44ed9905.png"> </h1>
 
 ## Table of Contents
 * [description](#description)
