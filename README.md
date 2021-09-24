@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> Cat's GitHub Profile </h1>
+<h1 align="center"> <img width="600" height="400" src ="https://www.canva.com/design/DAEq7cevWLM/share/preview?token=Xkfrur7Z-6SMBDJziR07MQ&role=EDITOR&utm_content=DAEq7cevWLM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"> </h1>
 
 ## Table of Contents
 * [description](#description)
