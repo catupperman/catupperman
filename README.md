@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 ## Description
-> Welcome to my GitHub page, where I revel in the love for Octocat, and Psuedo Coding.  Bootcamp warrior, navigating my way through the last few weeks of the LPS WebDevelopmet Bootcamp through UPenn, powered by trillogy.  Graduation with certificate November 13th, 2021.  Looking forward to expanding my knowledge and learning new languages/technologies along the way. Most current projects include: working on homework assignments along the lines of technical Computer Science lingo.  
+> Welcome to my GitHub page, where I revel in the love for Octocat, and Psuedo Coding.  Bootcamp warrior, navigating my way through the last few weeks of the LPS WebDevelopmet Bootcamp through UPenn, powered by trillogy.  Graduation with certificate November 13th, 2021.  Looking forward to expanding my knowledge and learning new languages/technologies along the way. Most current projects include: working on homework assignments along the lines of technical Computer Science lingo.  Check out my Profile: [Here](https://catupperman.github.io/Cats-Profile/)
 
 
 ## Learning
