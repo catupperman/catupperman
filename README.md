@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center"> Cat's GitHub Profile </h1>
+
+## Table of Contents
+* [description](#description)
+* [learning](#learning)
+* [contact](#contact)
+
+
+## Description
+> Welcome to my GitHub page, where I revel in the love for Octocat, and Psuedo Coding.  Bootcamp warrior, navigating my way through the last few weeks of the LPS WebDevelopmet Bootcamp through UPenn, powered by trillogy.  Graduation with certificate November 13th, 2021.  Looking forward to expanding my knowledge and learning new languages/technologies along the way. Most current projects include: working on homework assignments along the lines of technical Computer Science lingo.  
+
+
+## Learning
+> What I've learned so far:  HTML - the "Bones", CSS - the "Skin", and JavaScript - the "Movements", and all the fluff that goes along with JavaScript, such as JQuery, Node.js, Bootstrap, Materialize, several npm packages (there's really so many to explore), testing practices, Insomnia, Postman, and my personal favorite navigating and commiting to GitHub. :heart:
+ 
+## Contact
+* :octocat: [CatUpperman](github.com/catupperman)
+* :mailbox: :cat2: catupperman@gmail.com
+* Prefered Contact: Email or GitHub
+<p align="center">
+  <img width="460" height="300" src = "images/owl.gif">
+</p>
